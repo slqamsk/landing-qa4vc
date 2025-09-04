@@ -1,11 +1,11 @@
 # Пример лендингов для курса "QA for Vibe Coders"
 
-Это пример реализации A/B-теста для демонстрации работы системы [`ab-testing-system`](https://github.com/yourname/ab-testing-system).
+Это пример реализации A/B-теста для демонстрации работы системы [`ab-testing-system`](https://github.com/slqamsk/ab-testing-system).
 
 ## О проекте
 - **Цель:** Тестирование конверсии разных вариантов лендинга
 - **Аудитория:** Студенты курсов по тестированию ПО
-- **Используемая система:** [AB Testing System](https://github.com/yourname/ab-testing-system)
+- **Используемая система:** [AB Testing System](https://github.com/slqamsk/ab-testing-system)
 
 ## Структура
 - `variants/variant-a/` - Вариант A (контрольный)
